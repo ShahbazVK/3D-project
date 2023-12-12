@@ -1,9 +1,5 @@
 deployed link : https://sa-portfolio-3d.netlify.app/
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/ShahbazVK/3D-project/assets/63925374/7ea606ec-235e-4656-a6cf-7e3123ee21bf)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/ShahbazVK/3D-project/assets/63925374/20bbd512-c872-41c4-8fa7-10e495da000f)
